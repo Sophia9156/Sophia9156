@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Sophia! and trying to be a front-end developer :)
-
+- 👋 Hi, I’m Sophia! I have a year experience in front-end development. :)
+- I mostly use TypeScript, React.js, Next.js.
