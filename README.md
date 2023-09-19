@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Sophia! I have couple of years of experience in front-end development. :)
-- I mostly use TypeScript, React.js, Next.js.
+- I mostly use TypeScript, ReactJs, NextJs. 🚀
